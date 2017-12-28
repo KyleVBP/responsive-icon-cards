@@ -16,3 +16,18 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+.cards {
+  list-style-type: none;
+  padding: 0;
+}
+
+.card-img img{
+  width: 50px;
+  display: block;
+  margin: 0 auto;
+}
